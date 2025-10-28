@@ -76,7 +76,3 @@ Include plot comparing the state value functions of Monte Carlo method and Qlear
 ## RESULT:
 Therefore, python program to find optimal policy using Q-Learning is developed and state value function obtained is compared with first visit monte carlo.
 
-
-## RESULT:
-
-Therefore, python program to find optimal policy using Q-Learning is developed and state value function obtained is compared with first visit monte carlo.
