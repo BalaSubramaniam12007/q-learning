@@ -22,7 +22,7 @@ Return the computed action value function and policy. Plot graph and compare wit
 ### Name: BALASUBRAMANIAM L
 ### Register Number: 212224240020
 
-```
+```python
 def q_learning(env,
                gamma=1.0,
                init_alpha=0.5,
